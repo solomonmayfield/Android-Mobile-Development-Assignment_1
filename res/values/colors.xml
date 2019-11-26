@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="HotPink">#ff69b4</color>
+    <color name="gainsboro">#dcdcdc</color>
+    <color name="firebrick1">#ff3030</color>
+    <color name="DarkTurquoise">#00ced1</color>
+    <color name="DarkSeaGreen">#8fbc8f</color>
+    <color name="DarkViolet">#9400d3</color>
+    
+</resources>
